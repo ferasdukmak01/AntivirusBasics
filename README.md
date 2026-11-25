@@ -1,4 +1,4 @@
-# Antivirus
+# Antivirus Basics
 
 Microsoft Defender Antivirus to detect and remove malware from a Windows system.
 
